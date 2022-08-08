@@ -1,0 +1,19 @@
+(?)
+[ Copy "Hello, world!" to clipboard ]
+### Window options ###
+| [ ] No titlebar | [ ] No scrollbar | [ ] No menu |
+| [ ] No move | [ ] No resize | [ ] No collapse |
+| [ ] No close | [ ] No nav | [ ] No background |
+| [ ] No bring to front | [ ] No docking | [ ] Unsaved document |
+### Widgets ###
+### Layout & Scrolling ###
+### Popups & Modal windows ###
+### Tables & Columns ###
+### Filtering ###
+### Inputs, Navigation & Focus ### This is some useful text.
+[x] Demo Window
+[ ] Another Window
+{ 0.353 } float
+{ R:134 } { G:145 } { B:153 } clear color
+[ Button ] counter = 0
+Application average 16.673 ms/frame (60.0 FPS)

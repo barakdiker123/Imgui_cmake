@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend  -o CMakeFiles/main.dir/main.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/main.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/main.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/dear_imgui",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/imgui.dir/imgui_draw.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_draw.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/dear_imgui",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/imgui.dir/imgui_tables.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_tables.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/dear_imgui",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/imgui.dir/imgui.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/dear_imgui",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/imgui.dir/imgui_widgets.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_widgets.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/dear_imgui",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/imgui.dir/imgui_demo.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_demo.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/imgui_backend",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/backend_imgui.dir/imgui_impl_glfw.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend/imgui_impl_glfw.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/build/imgui_backend",
+  "command": "/usr/bin/c++  -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend -I/home/barakdiker/rbd_lab/imgui_test1/todelete1/dear_imgui  -o CMakeFiles/backend_imgui.dir/imgui_impl_opengl3.cpp.o -c /home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend/imgui_impl_opengl3.cpp",
+  "file": "/home/barakdiker/rbd_lab/imgui_test1/todelete1/imgui_backend/imgui_impl_opengl3.cpp"
+}
+]
